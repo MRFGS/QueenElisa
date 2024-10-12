@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://files.catbox.moe/el1xw8.png',
-  MONGODB_URL: 'mongodb+srv://Abc:abc@cluster0.px2qxl0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
+  MONGODB_URL: 'mongodb+srv://Snyder:Snyder@liya.cluiny3.mongodb.net/?retryWrites=true&w=majority&appName=Liya', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
